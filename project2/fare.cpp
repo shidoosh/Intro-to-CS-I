@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Project 2
-//
-//  Created by Stefanie Shidoosh on 1/19/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//  ID: 804794484
 
 
 #include <iostream>

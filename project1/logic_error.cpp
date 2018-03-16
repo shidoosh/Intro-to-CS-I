@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  Project 1 (logic_error)
-//
-//  Created by Stefanie Shidoosh on 1/17/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 
 // Code for Project 1
 // Election results

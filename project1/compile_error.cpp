@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Project 1 (compile)
-//
-//  Created by Stefanie Shidoosh on 1/13/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;   // pp. 37-38 in Savitch book explain this line

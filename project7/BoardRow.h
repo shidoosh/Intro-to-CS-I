@@ -1,10 +1,4 @@
-//
-//  BoardRow.h
-//  Bunco
-//
-//  Created by Howard Stahl on 1/27/17.
-//  Copyright © 2017 Howard Stahl. All rights reserved.
-//
+
 
 #ifndef BoardRow_h
 #define BoardRow_h

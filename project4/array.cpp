@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  Real Project 4
-//
-//  Created by Stefanie Shidoosh on 2/21/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 
 #include <iostream>
 #include <string>
