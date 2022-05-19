@@ -1,5 +1,5 @@
 # C++ Array Practice 
-This project reviews C++ arrays. The objective was to implement basic functions that evaluate and/or modify a passed array. These include: 
+This project reviews C++ arrays. All functions are passed an array and its size. The objective was to implement basic functions that evaluate and/or modify a passed array. These include: 
 * locateMinimum: finding the minimum value in the array relative to its data type 
 * findLastOccurence: finding the last occurrence of a passed value in the array 
 * flipAround: reverse the order of the array 
