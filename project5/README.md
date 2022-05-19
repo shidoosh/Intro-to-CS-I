@@ -1,4 +1,4 @@
-#C++ Classes: Zodiac Sign Calculator
+# C++ Classes: Zodiac Sign Calculator
 
 This project introduces classes, and reviews using multiple .cpp and .h files in one project. The program defines a Date class and Zodiac Reader class: 
 * The Date class has month and day member variables
